@@ -39,9 +39,11 @@ if (!require(tidyverse)) {install.packages("tidyverse")}
   <tr>
    <td style="vertical-align: middle">  Name
                                         <br>
+                                        <br>
                                         <br>Contacts
    </td><td style="vertical-align: middle "> Kushnazarov Farruh 
                                         <br> 法如赫 
+                                        <br>
                                         <br> 173-2116-0407 
                                         <br> k.farruh@bk.ru 
    </td><td style="text-align:center" colspan="2"> <img src="input/img/cropped.jpg" height="180px" width="160px" border="1px"> 
