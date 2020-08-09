@@ -4,7 +4,6 @@ author: Farruh Kushnazarov
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   revealjs::revealjs_presentation:
-    logo: img/cropped.jpg
     theme: league
     highlight: monochrome
     center: true
@@ -14,9 +13,7 @@ output:
     reveal_options:
       slideNumber: true
       previewLinks: true
-    self_contained: false
-    reveal_plugins: ["zoom", "search"]
-    mathjax: local
+
 editor_options: 
   chunk_output_type: console
 ---
@@ -42,11 +39,9 @@ if (!require(tidyverse)) {install.packages("tidyverse")}
   <tr>
    <td style="vertical-align: middle">  Name
                                         <br>
-                                        <br>
                                         <br>Contacts
    </td><td style="vertical-align: middle "> Kushnazarov Farruh 
                                         <br> 法如赫 
-                                        <br>
                                         <br> 173-2116-0407 
                                         <br> k.farruh@bk.ru 
    </td><td style="text-align:center" colspan="2"> <img src="input/img/cropped.jpg" height="180px" width="160px" border="1px"> 
@@ -56,7 +51,7 @@ if (!require(tidyverse)) {install.packages("tidyverse")}
    </td><td colspan="3"> Mathematical modeling, numerical calculation and coordination of computer programs 
    </td>
   </tr><tr>
-   <td> Highest Education 
+   <td> Education 
    </td><td colspan="3"> Ph.D. from St.Petersburg National Alexander I Emperor Transportation University 
    </td>
   </tr><tr>
