@@ -91,6 +91,21 @@ if (!require(tidyverse)) {install.packages("tidyverse")}
 - **Method**: LDA
 - **Result**: 10 topics and 10 subtopics. <br>Accuracy 87%
 
+# Computer Vision Projects
+
+##  Container Number Recognition (CNR)
+CNR performs reading and identification of ISO 6346 container codes, in logistic ports and handling cranes. The intelligent system allows us to manage several lanes from a single post and perform access control and efficient recognition, not only of the containers but also of the trucks in charge of their transportation. CNR based on technologies deep learning, optical character recognition.
+
+<a target="_blank" href="input/img/computer_vision/container_number/cn1.jpg">
+  <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn1.jpg" alt="Moscow City" style="height:100px">
+</a>
+<a target="_blank" href="input/img/computer_vision/container_number/cn2.png">
+  <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn2.png" alt="Moscow City" style="height:100px">
+</a>
+<a target="_blank" href="input/img/computer_vision/container_number/cn3.png">
+  <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn3.png" alt="Moscow City" style="height:100px">
+</a>
+
 # Projects Related to Customer Lifecycle
 
 ## Intro
