@@ -13,7 +13,6 @@ output:
     reveal_options:
       slideNumber: true
       previewLinks: true
-
 editor_options: 
   chunk_output_type: console
 ---
@@ -73,13 +72,13 @@ if (!require(tidyverse)) {install.packages("tidyverse")}
 # Projects Related to NLP
 
 ## Speech Accent Detection
-- **Description**: Everyone who speaks a language, speaks it with an accent. This project define accent for english language speakers
+- **Description**: Everyone who speaks a language, speaks it with an accent. This project defines accent for English language speakers
 - **Result**: Created and tested the Speech Accent Classification system for native and non-native speakers, with recall 99%
 - **Link**: https://github.com/speech-accent-detection
 
 ## asr - automatic speech recognition
 - **Description**: Implemented and retrained Mozilla DeepSpeech library for Automatic Speech Recognition. Mozilla ASR is an open source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper.
-- **Result**: Created and tested the ASR system with for British accent 82% and American accent 86% accuracy.
+- **Result**: Created and tested the ASR system with British accent 82% and American accent 86% accuracy.
 
 ## Text classification project
 - **Goal**: Classified to 10 different topics.
@@ -94,7 +93,7 @@ if (!require(tidyverse)) {install.packages("tidyverse")}
 # Computer Vision Projects
 
 ##  Container Number Recognition (CNR)
-CNR performs reading and identification of ISO 6346 container codes, in logistic ports and handling cranes. The intelligent system allows us to manage several lanes from a single post and perform access control and efficient recognition, not only of the containers but also of the trucks in charge of their transportation. CNR based on technologies deep learning, optical character recognition.
+CNR performs reading and identification of ISO 6346 container codes, in logistic ports and handling cranes. The intelligent system allows us to manage several lanes from a single post and perform access control and efficient recognition, not only of the containers but also of the trucks in charge of their transportation. CNR is based on technologies deep learning, optical character recognition.
 
 <a target="_blank" href="input/img/computer_vision/container_number/cn1.jpg">
   <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn1.jpg" alt="Moscow City" style="height:100px">
@@ -117,7 +116,7 @@ The customer lifecycle includes 5 below stages:
 1. Acquisition — bring them into a sphere of influence;
 1. Conversion — turn them into registered instead of paying customers;
 1. Retention — keep them as customers;
-1. Loyalty/advocacy—turn them into company advocate
+1. Loyalty/advocacy—turn them into a company advocate
 
 http://mts.intechopen.com/articles/show/title/consumer-life-cycle-and-profiling-a-data-mining-perspective
 
@@ -157,37 +156,41 @@ http://mts.intechopen.com/articles/show/title/consumer-life-cycle-and-profiling-
 </table>
 
 ## Acquisition - Reactivated Leads Points System
-- **Goal**: Improve overall sign-up rate of reactivated leads.
-- **Data sourses**: landing page data, device, location, estimated age, landed time etc.
+- **Goal**: Improve the overall sign-up rate of reactivated leads.
+- **Data sources**: landing page data, device, location, estimated age, landed time, etc.
 - **Method**: Random forest
 - **Result**: Increased sign-up rate by two times. 
 
 ## Conversion - Customer Renewal
-- **Goals**: Improve overall renewal rate; Summarise main factors; Esitmate quantity and duration of phone calls during contract life time.
-- **Data sourses**: class data; teacher and student data.
+- **Goals**: Improve overall renewal rate; Summarise main factors; Estimate quantity and duration of phone calls during contract lifetime.
+- **Data sources**: class data; teacher and student data.
 - **Method**: Random forest (Boosting)
-- **Result**: Increased renew rate up to 30%.
+- **Result**: Increased renew rate by up to 30%.
+- **News Links**:
+    - https://www.tutorabc.com.cn/About/NewsDetail/9848.html
 
 
 ## Retention - Customer Churn (Karma)
-- **Goal**: Decrease client refund rate; Create possible refund lists with estimated rate.
-- **Data sources**: Class data, teacher and student data.
-- **Methods**: Extra-Trees.
+- **Goal**: Decrease client refund rate, which will increase the Return On Investment (ROI). If a company interacting with every customer would cost a considerable amount since it needs to create possible refund lists with the estimated rate.
+- **Data sources**: student-customers', teachers' data, and data related to the product that the customer bought.
+- **Methods**: Logistic Regression and Random Forest.
 - **Result**: Decreased refund rate to 27%.
-
+- **News Links**:
+    - https://www.tutorabc.com.cn/About/NewsDetail/9889.html
+    - https://www.tutorabc.com.cn/About/NewsDetail/9882.html
 
 
 # Projects Related to Smart City
 
 ## Intro
-I worked for Domus Sapiens and programmer/data analytic/project manager. Did the design and programming job of the smart systems in the intelligent building, and one individual completes a complete set of processes. The smart buildings/city I've done dozen large and small, concentrated in Moscow and St Petersburg. One of the most famous and complex cases is the development of an intelligent system in Moscow City.
+I worked for Domus Sapiens and a programmer/data analytic/project manager. Did the design and programming job of the smart systems in the intelligent building, and one individual completes a complete set of processes. The smart buildings/city I've done a dozen large and small, concentrated in Moscow and St Petersburg. One of the most famous and complex cases is the development of an intelligent system in Moscow City.
 
 http://http://domussapiens.ru/
 
 ## Moscow City
-- Moscow City Project, which is made by 5 different office building groups with different requirements to smart system & linking. 
-- Companies main job is to make computer programming of center control & night light adjustment. 
-- More then 800 m2
+- Moscow City Project is done by 5 different office building groups with varying requirements for smart system & linking. 
+- The company's main job is to make computer programming of center control & night light adjustment. 
+- More than 800 m2
 - 15000 signals from different controllers 	
 
 <a target="_blank" href="input/img/smart_city/moscow_city/ms1.jpg">
@@ -215,7 +218,7 @@ http://http://domussapiens.ru/
   <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms8.jpg" alt="Moscow City" style="height:100px">
 </a>
 
-## Smart old style apartment
+## Smart old-style apartment
 - Automation of lighting, curtains, ventilation, 
 - Leakage monitoring
 - The control of home theater from tablet and computer
@@ -241,10 +244,10 @@ http://http://domussapiens.ru/
 </a>
 
 ## Smart Penthouse
-- Controlling systems: lighting, climate, media systems and access control without pushing a button.
-- Media systems should works with voice
-- Lighting and climate with radio signal (on body or on mobile phone)
-- Smart system work in KNX protocol, the radio work on Modbus and voice control protocol was Fast Ethernet. 
+- Controlling systems: lighting, climate, media systems, and access control without pushing a button.
+- Media systems should work with voice
+- Light and climate with radio signal (on the body or on a mobile phone) 
+- Smart system work in KNX protocol, the radio work on Modbus, and voice control protocol were Fast Ethernet. 
 - Connected all subsystems in one system with two controller AMX and Crestron
 
 <a target="_blank" href="input/img/smart_city/penthouse/korabli2.jpg">
@@ -267,7 +270,7 @@ http://http://domussapiens.ru/
 - The main task, which stood in front of our company - modernization of the existing smart home system
 - Upgraded equipment and expand the functions of the system
 - Installed portable AMX touch panels and iPad system management
-- Integrated smart home irrigation system and curtains drives by a radio channel
+- Integrated smart home irrigation system and curtains drive by a radio channel
 - This project was marked by the award of AMX in 2011
 
 <a target="_blank" href="input/img/smart_city/villa/repino1.jpg">
