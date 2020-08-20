@@ -74,7 +74,7 @@ if (!require(tidyverse)) {install.packages("tidyverse")}
 ## Speech Accent Detection
 - **Description**: Everyone who speaks a language, speaks it with an accent. This project defines accent for English language speakers
 - **Result**: Created and tested the Speech Accent Classification system for native and non-native speakers, with recall 99%
-- **Link**: https://github.com/speech-accent-detection
+- **Link**: https://github.com/k-farruh/speech-accent-detection
 
 ## asr - automatic speech recognition
 - **Description**: Implemented and retrained Mozilla DeepSpeech library for Automatic Speech Recognition. Mozilla ASR is an open source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper.
