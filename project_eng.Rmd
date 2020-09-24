@@ -44,7 +44,7 @@ knitr::opts_chunk$set(
    </td>
   </tr><tr>
    <td> Major 
-   </td><td colspan="3"> Mathematical modeling, numerical calculation and coordination of computer programs 
+   </td><td colspan="3"> Mathematical modeling, numerical methods and computer program 
    </td>
   </tr><tr>
    <td> Education 
@@ -77,7 +77,7 @@ knitr::opts_chunk$set(
 
 ## Text classification project
 - **Goal**: Classified to 10 different topics.
-- **Data sourses**: 
+- **Data sources**: 
     - Title: 5-10 words
     - Description: 20-50 words
     - Text1: 200-400 words
@@ -91,13 +91,13 @@ knitr::opts_chunk$set(
 CNR performs reading and identification of ISO 6346 container codes, in logistic ports and handling cranes. The intelligent system allows us to manage several lanes from a single post and perform access control and efficient recognition, not only of the containers but also of the trucks in charge of their transportation. CNR is based on technologies deep learning, optical character recognition.
 
 <a target="_blank" href="input/img/computer_vision/container_number/cn1.jpg">
-  <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn1.jpg" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn1.jpg" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 <a target="_blank" href="input/img/computer_vision/container_number/cn2.png">
-  <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn2.png" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn2.png" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 <a target="_blank" href="input/img/computer_vision/container_number/cn3.png">
-  <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn3.png" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/computer_vision/container_number/cn3.png" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 
 # Projects Related to Customer Lifecycle
@@ -178,39 +178,39 @@ http://mts.intechopen.com/articles/show/title/consumer-life-cycle-and-profiling-
 # Projects Related to Smart City
 
 ## Intro
-I worked for Domus Sapiens and a programmer/data analytic/project manager. Did the design and programming job of the smart systems in the intelligent building, and one individual completes a complete set of processes. The smart buildings/city I've done a dozen large and small, concentrated in Moscow and St Petersburg. One of the most famous and complex cases is the development of an intelligent system in Moscow City.
+I worked for Domus Sapiens and a programmer/data analytic/project manager. Did the design and programming job of the smart systems in the intelligent building, and one individual completes a complete set of processes. The smart buildings/city I've done a dozen large and small, concentrated in Moscow and St Petersburg. One of the most famous and complex cases is the development of an intelligent system in Moscow Smart Lighting Projects.
 
 http://http://domussapiens.ru/
 
-## Moscow City
-- Moscow City Project is done by 5 different office building groups with varying requirements for smart system & linking. 
+## Moscow Smart Lighting Projects
+- Moscow Smart Lighting Projects Project is done by 5 different office building groups with varying requirements for smart system & linking. 
 - The company's main job is to make computer programming of center control & night light adjustment. 
 - More than 800 m2
 - 15000 signals from different controllers 	
 
 <a target="_blank" href="input/img/smart_city/moscow_city/ms1.jpg">
-  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms1.jpg" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms1.jpg" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 <a target="_blank" href="input/img/smart_city/moscow_city/ms2.jpg">
-  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms2.jpg" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms2.jpg" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 <a target="_blank" href="input/img/smart_city/moscow_city/ms3.jpg">
-  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms3.jpg" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms3.jpg" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 <a target="_blank" href="input/img/smart_city/moscow_city/ms4.jpg">
-  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms4.jpg" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms4.jpg" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 <a target="_blank" href="input/img/smart_city/moscow_city/ms5.jpg">
-  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms5.jpg" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms5.jpg" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 <a target="_blank" href="input/img/smart_city/moscow_city/ms6.jpg">
-  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms6.jpg" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms6.jpg" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 <a target="_blank" href="input/img/smart_city/moscow_city/ms7.jpg">
-  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms7.jpg" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms7.jpg" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 <a target="_blank" href="input/img/smart_city/moscow_city/ms8.jpg">
-  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms8.jpg" alt="Moscow City" style="height:100px">
+  <img class="image_thumbnail" src="input/img/smart_city/moscow_city/ms8.jpg" alt="Moscow Smart Lighting Projects" style="height:100px">
 </a>
 
 ## Smart old-style apartment
